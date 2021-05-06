@@ -42,7 +42,7 @@ The course is taught through a seven-week combo of online classes (available at 
 ### pset5 - Data Structures (C)
 
 > Implement a program that spell-checks a file.
-- [Speller](pset5/speller/)
+- [Speller](pset5/speller/))
 
 ### pset6 - Introduction to Python (Python)
 
@@ -67,7 +67,7 @@ The course is taught through a seven-week combo of online classes (available at 
 > Implement a full stack web application in which users can simulate investing into stocks, including user registration and real time stock prices.
 - [Finance](pset8/finance)
 
-### Final Project
+### [Final Project](final-project/)
 > Build something of interest to you, that you solve an actual problem, that you impact your community, or that you change the world. Strive to create something that outlives this course.
 
 <div align="center">
