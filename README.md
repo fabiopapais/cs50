@@ -42,7 +42,7 @@ The course is taught through a seven-week combo of online classes (available at 
 ### pset5 - Data Structures (C)
 
 > Implement a program that spell-checks a file.
-- [Speller](pset5/speller/))
+- [Speller](pset5/speller/)
 
 ### pset6 - Introduction to Python (Python)
 
