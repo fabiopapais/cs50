@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./cs50x-image.jpg" height="150"/>
+    <img src="./cs50x-image.jpg" height="200"/>
     <h1><b>2020 Harvard University's CS50x</b>: Introduction to the intellectual enterprises of computer science and the art of programming</h1>
 </div>
 
@@ -74,4 +74,4 @@ The course is taught through a seven-week combo of online classes (available at 
   <img src="./final-project-logo.svg" width="250"/>
 </div>
 
-For this Final Project, I teamed up with [a friend](github.com/weltonfelix) to build a platform (called Cookit!) where you can search for recipes based on the ingredients you have in your home, instead of searching only for the name of the recipe. The video presentation of the project is [available at Youtube](https://youtu.be/QfpLtNVWxLg) and the repo with code is [available at Github](https://github.com/weltonfelix/cookit).
+For this Final Project, I teamed up with [a friend](https://github.com/weltonfelix) to build a platform (called Cookit!) where you can search for recipes based on the ingredients you have in your home, instead of searching only for the name of the recipe. The video presentation of the project is [available at Youtube](https://youtu.be/QfpLtNVWxLg) and the repo with code is [available at Github](https://github.com/weltonfelix/cookit).
